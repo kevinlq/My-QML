@@ -1,11 +1,10 @@
-# LQML_demo
-this is QML program
+# MyQML
+this is My QML program
 
-## 1. QML_Login
+## 1. 登录对话框
 `QML_Login`
 
 this is a simple login ui.
-
 
 ## 2. QML自定义对话框(模态)
 
