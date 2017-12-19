@@ -132,14 +132,14 @@ Item {
         {
             if(Qt.platform != "android")
             {
-                m_bScrolling=false
+                m_bScrolling = false
             }
         }
         onCanceled:
         {
             if(Qt.platform != "android")
             {
-                m_bScrolling=false
+                m_bScrolling = false
             }
         }
 

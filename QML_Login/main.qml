@@ -8,7 +8,6 @@ ApplicationWindow {
     color: "#FFFFFF";
     title: qsTr("Login_demo");
 
-
     Text {
         id: text_name;
         x: 47;

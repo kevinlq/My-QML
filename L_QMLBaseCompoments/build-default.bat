@@ -28,7 +28,7 @@ set BuildBeforeName=qml.qrc
 echo 设置编译的资源文件名称为:%BuildBeforeName%
 
 ::设置编译后的资源问价名
-set BuildAfterName=default.skin
+set BuildAfterName=qml.rcc
 echo 设置编译后的资源文件名称为:%BuildAfterName%
 
 ::检测当前编译后资源路径是否存在
