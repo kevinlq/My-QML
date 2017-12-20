@@ -27,8 +27,8 @@ echo 设置当前编译后的路径为:%RCC_Foler%
 set BuildBeforeName=qml.qrc
 echo 设置编译的资源文件名称为:%BuildBeforeName%
 
-::设置编译后的资源问价名
-set BuildAfterName=qml.rcc
+::设置编译后的资源文件名
+set BuildAfterName=qml.skin
 echo 设置编译后的资源文件名称为:%BuildAfterName%
 
 ::检测当前编译后资源路径是否存在

@@ -7,13 +7,13 @@
 int main(int argc, char *argv[])
 {
     QGuiApplication app(argc, argv);
-    QString strRccPath = QGuiApplication::applicationDirPath ()+"/qml.rcc";
+    QString strRccPath = QGuiApplication::applicationDirPath ()+"/qml.skin";
     qDebug()<<"strRccPath:"<<strRccPath;
 
 //    QByteArray baRcc = strRccPath.toLatin1 ();
 
     QString strRoot = "";
-    QResource::unregisterResource (strRccPath);
+//    QResource::unregisterResource (strRccPath);
 
     if (QResource::registerResource (strRccPath,strRoot) )
     {
@@ -22,7 +22,7 @@ int main(int argc, char *argv[])
     {
         QResource::unregisterResource (strRccPath);
         qDebug()<<"register rcc error!";
-//        return 0;
+        return 0;
     }
 
 
