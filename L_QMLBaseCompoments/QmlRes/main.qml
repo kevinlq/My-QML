@@ -6,15 +6,16 @@ import "./Common/Compoments"
 
 Window {
     visible: true
-    width: 640
-    height: 480
+    width: 400
+    height: 320
     title: qsTr("Hello World")
 
     color: "#223333"
 
     Column {
         spacing: 10
-        anchors.leftMargin: parent.width *0.6
+        anchors.left: parent.left
+        anchors.leftMargin: 20
         LQBaseText {
             id: txt
             text: "这个是Text组件"
