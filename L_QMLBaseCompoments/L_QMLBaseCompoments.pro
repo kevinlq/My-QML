@@ -9,5 +9,5 @@ DEPENDPATH += $$PWD/Bin
 
 SOURCES += main.cpp
 
-#RESOURCES += qml.qrc
+RESOURCES += qml.qrc
 

@@ -70,4 +70,7 @@ Thumbs.db
 # --------
 *.dll
 *.exe
+!rcc.exe
+!libstdc++-6.dll
+
 
