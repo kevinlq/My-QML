@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyFish.qml</file>
+        <file>CanvansDemo.qml</file>
+        <file>AnimationDemo.qml</file>
+        <file>LayoutDemo.qml</file>
+    </qresource>
+</RCC>

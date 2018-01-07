@@ -1,6 +1,0 @@
-<RCC> 
-<qresource prefix="/"> 
-<file>QmlRes/main.qml</file> 
-<file>QmlRes/Common/Compoments/LQBaseText.qml</file> 
-</qresource> 
-</RCC> 
