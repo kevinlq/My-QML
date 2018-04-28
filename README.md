@@ -4,6 +4,8 @@ this is My QML program
 ## 1. 登录对话框
 `QML_Login`
 
+![](/screen/login.png)
+
 this is a simple login ui.
 
 ## 2. QML自定义对话框(模态)
