@@ -12,6 +12,12 @@ this is a simple login ui.
 
 `QML_Dialog`
 
+## 3. QML 神鱼摆尾
+
+`Canvas Demo`
+
+![](/screen/fish.png)
+
 
 
 ## change log
