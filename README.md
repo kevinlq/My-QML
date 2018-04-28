@@ -18,6 +18,29 @@ this is a simple login ui.
 
 ![](/screen/fish.png)
 
+4. QML 自定义食谱图
+
+![](/screen/recipePanel.png)
+
+...源码整理后上传
+
+5. 圆形头像
+![](/screen/RoudHeadPic.png)
+
+...源码整理后上传
+
+6. 速度仪表盘1
+![](/screen/speedPanel.png)
+
+7. 芝麻信用分仪表盘
+
+![](/screen/zhima.png)
+
+8. 芝麻信用仪表盘2
+
+![](/screen/zhima2.png)
+
+
 
 
 ## change log
