@@ -46,9 +46,9 @@ this is a simple login ui.
 
 ## 9. 图像浏览
 
-![](/screen/imageView.png)
-
 C++自定义图像控件给QML使用，demo 中演示了C++如何自定义控件给 `QML` 使用，后续可以添加鼠标事件，实现放大缩小、旋转等操作
+
+![](/screen/imageView.png)
 
 
 ## change log
